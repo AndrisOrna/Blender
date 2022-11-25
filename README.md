@@ -23,3 +23,5 @@ Created blend tree but first time didn't worked and after research did some simp
 
 https://user-images.githubusercontent.com/23377301/204005338-3cde1054-4a22-4435-9409-581cb54715bd.mp4
 
+# Ragdoll and scripts
+Created ragdoll for my Human and created some ombies. Able to shoot them with mouse and ragdoll activated.[Ragdoll_scripts2.zip](https://github.com/AndrisOrna/Blender/files/10093529/Ragdoll_scripts2.zip)
