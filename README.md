@@ -25,3 +25,8 @@ https://user-images.githubusercontent.com/23377301/204005338-3cde1054-4a22-4435-
 
 # Ragdoll and scripts
 Created ragdoll for my Human and created some ombies. Able to shoot them with mouse and ragdoll activated.[Ragdoll_scripts2.zip](https://github.com/AndrisOrna/Blender/files/10093529/Ragdoll_scripts2.zip)
+
+
+
+https://user-images.githubusercontent.com/23377301/204006507-54ab6275-eb88-482f-b29a-066162fe971d.mp4
+
